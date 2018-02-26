@@ -1,6 +1,0 @@
-Possible ways of cross platform configureation
-
-* Virtual Machine using Qemu and a Server Operating system (FreeBSD, Ubuntu Server, Fedora, etc)
-* Cross Platform languages for server side (C, C++, Java, Perl, Python, Ruby)
-* Javascript and HTML (Possibly PHP for dynamic pages, or Rails) for client use though browser
-*
