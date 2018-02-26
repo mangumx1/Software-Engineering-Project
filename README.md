@@ -10,5 +10,5 @@ Team Register:
 
 Software Reqirements:
 
-Php server => PHP7
-MySQL
+* Php server => PHP7
+* MySQL
