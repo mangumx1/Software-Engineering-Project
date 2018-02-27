@@ -1,6 +1,4 @@
 <?php
-   // This file is the same as example 6-7, but includes mysqlclean() and shellclean() 
-
    $hostName = "localhost";
    $databaseName = "logindb";
 
