@@ -1,6 +1,6 @@
 <?php
-    require 'authentication.inc';
-    require 'db.inc';
+    require 'authentication.lib';
+    require 'db.lib';
     if(!$connection = @ mysqli_connect("localhost", "root", "toor"))
         die("Cannot connect to database");
     
